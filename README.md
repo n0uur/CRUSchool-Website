@@ -6,7 +6,7 @@
 
 ### ตัวอย่างเว็บไซต์
 
-[ตัวอย่างเว็บไซต์](https://ktnis.me/project/cru_web/)
+[ตัวอย่างเว็บไซต์](https://cru.ktnis.me/)
 
 ### Test Environment
 
